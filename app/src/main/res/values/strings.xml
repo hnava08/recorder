@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="start">Start recording</string>
+    <string name="explain">This app records a phone call when the call starts and stops when the call ends. It waits until you allow the microphone, phone, and notification permissions. Android may block call audio on this phone. Recordings stay on the device.</string>
+    <string name="allow">Allow recording</string>
+    <string name="recordings">Recordings</string>
+    <string name="empty">No recordings yet.</string>
+    <string name="waiting">Waiting for a call.</string>
+</resources>
